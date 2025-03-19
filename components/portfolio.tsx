@@ -22,7 +22,7 @@ const projects = [
     category: "Enterprise UI",
     description:
       "Designed and optimized UI components for VosynCore, enhancing real-time voice, text, and video localization.",
-    image: "/placeholder.svg?height=600&width=800",
+    image: "/vosyn.png?height=600&width=800",
     tags: ["UI Design", "Enterprise", "Figma"],
   },
   {
@@ -30,7 +30,7 @@ const projects = [
     title: "eCommerce Website",
     category: "eCommerce",
     description: "Developed responsive eCommerce interfaces to enhance user experience and boost engagement.",
-    image: "/placeholder.svg?height=600&width=800",
+    image: "/e-com.png?height=600&width=800",
     tags: ["eCommerce", "WordPress", "Responsive"],
   },
   {
@@ -39,7 +39,7 @@ const projects = [
     category: "Healthcare",
     description:
       "Developed a pharmacy management system using PHP and WordPress, improving accessibility for patients and pharmacists.",
-    image: "/placeholder.svg?height=600&width=800",
+    image: "/e-pharma.png?height=600&width=800",
     tags: ["Healthcare", "Accessibility", "UX Design"],
   },
   {
@@ -48,7 +48,7 @@ const projects = [
     category: "Enterprise UI",
     description:
       "Developed scalable, accessible interfaces in VosynConnect, ensuring seamless integration of localization services.",
-    image: "/placeholder.svg?height=600&width=800",
+    image: "/vosyn.png?height=600&width=800",
     tags: ["UI/UX", "Accessibility", "Enterprise"],
   },
   {
@@ -57,7 +57,7 @@ const projects = [
     category: "Mobile",
     description:
       "Designed a user-friendly mobile application interface with focus on accessibility and user experience.",
-    image: "/placeholder.svg?height=600&width=800",
+    image: "/mobile-app.png?height=600&width=800",
     tags: ["Mobile", "UI Design", "Prototyping"],
   },
   {
@@ -65,7 +65,7 @@ const projects = [
     title: "Design System",
     category: "Design Systems",
     description: "Created a comprehensive design system to ensure consistency across multiple digital products.",
-    image: "/placeholder.svg?height=600&width=800",
+    image: "/Design-system.png?height=600&width=800",
     tags: ["Design Systems", "Component Library", "Documentation"],
   },
 ]

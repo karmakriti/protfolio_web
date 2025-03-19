@@ -39,12 +39,12 @@ const Footer = () => {
               </a>
             </Button>
             <Button asChild variant="ghost" size="icon" className="rounded-full hover:bg-primary/10">
-              <a href="https://github.com/" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+              <a href="https://github.com/karmakriti" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
                 <Github className="h-5 w-5" />
               </a>
             </Button>
             <Button asChild variant="ghost" size="icon" className="rounded-full hover:bg-primary/10">
-              <a href="https://www.behance.net/kritikarmach" target="_blank" rel="noopener noreferrer" aria-label="Behance">
+              <a href="https://www.behance.net/kritikarmacharya" target="_blank" rel="noopener noreferrer" aria-label="Behance">
                 <SiBehance className="h-5 w-5" />
               </a>
             </Button>
